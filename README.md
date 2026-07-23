@@ -1,5 +1,4 @@
-# Decode-labs-project-04-Data-Visualization
-#Project 4: Data Visualization with Power BI
+# Decode-labs-project-04-Data-Visualization with Microsoft Power BI
 
 Overview
 
